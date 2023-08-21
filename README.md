@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @sytxxAul
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Halo semua! 
 
-<!---
-sytxxAul/sytxxAul is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Perkenalkan nama saya **Aula Firdaus Azmi**.\
+
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Intagram]((https://www.instagram.com/aula_firdaus/)https://www.instagram.com/aula_firdaus/)ku ya.
+
